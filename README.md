@@ -1,5 +1,8 @@
 # Credit-Risk-Classification
 
+![image](https://github.com/mcaro01/credit-risk-classification/assets/125619215/b28cdaf9-e35b-43c6-8126-57ad6effaaa0)
+
+
 ## Instructions
 The instructions for this Challenge are divided into the following subsections:
 
@@ -32,26 +35,22 @@ Print the classification report.
   >
 
 ## Write a Credit Risk Analysis Report
+Structure your report by using the report template that `Starter_Code.zip` includes, ensuring that it contains the following:
 
 ### Credit Risk Analysis Report
 
 1) Explain the purpose of this analysis:
+
 * The purpose of this analysis is to create and evaluate the accuracy of a data model that predicts the credity worthiness of potential borrowers from peer-to-peer lending services
 2) Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
+
 * **_Balanced Accuracy Score_**: 95.20%  this means that when taking into account the sensitivity (recall and/or true positive rate) and specificity (true negative rate) of the model, the balanced prediction accuracy was 95.2%
 * **_Precision Score_**: 92%  This means 92% of predicted positives were correct
   
 * **_Recall Score_**: 95%  this means that the model was 95% precise in measuring true positive values our of all positive predictions made
   
 1) Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t recommend the model, justify your reasoning.
+
 I would recommend using this model to predict the creditworthiness of borrowers, because it has over 95% accuracy in predicting the outcome of the repayment of the initial loan. That accuracy range could be easily molded into a business risk profile to ensure sufficient capital flow for the lenders to remain in business/make a profit.
-Write a brief report that includes a summary and analysis of the performance of the machine learning models that you used in this homework. You should write this report as the `README.md` file included in your GitHub repository.
 
-Structure your report by using the report template that `Starter_Code.zip` includes, ensuring that it contains the following:
-
-  >An overview of the analysis: Explain the purpose of this analysis.
-
-  >The results: Using a bulleted list, describe the accuracy score, the precision score, and recall score of the machine learning model.
-
-  >A summary: Summarize the results from the machine learning model. Include your justification for recommending the model for use by the company. If you don’t           recommend the model, justify your reasoning.
 Some codes are sourced  from class activities and  sort assistance from support staff such as TA's.
