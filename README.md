@@ -1,5 +1,8 @@
 # Credit-Risk-Classification
 
+![image](https://github.com/mcaro01/credit-risk-classification/assets/125619215/b28cdaf9-e35b-43c6-8126-57ad6effaaa0)
+
+
 ## Instructions
 The instructions for this Challenge are divided into the following subsections:
 
